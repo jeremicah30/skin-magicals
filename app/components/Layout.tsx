@@ -12,7 +12,7 @@ export function Layout({children, title}: LayoutProps) {
       >
         <div className="flex gap-12">
           <a className="font-bold" href="/">
-            {title}
+            hi
           </a>
         </div>
       </header>
